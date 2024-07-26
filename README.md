@@ -1,4 +1,4 @@
-# Gurnaazcoder.github.io
+ # Gurnaazcoder.github.io
 ## Activity report of student's Induction program
 
 | Date | Resource person | Description |
@@ -9,6 +9,7 @@
 | 19/07/2024 | Kanwardeep kalra | The introduction started with the topic campus 2 corporate and tortoise how to develop the hard and soft skills and inspired us to follow the thought change is good but its never easy.|
 | 22/07/2024 | Dr.Pushpinder singh |He taught us about the types of learning  and asked us to realize our own learning styles and motivated us to focus on deep learning then surface learning 'Study with quality not quantity 'Success is never by chance you need to be pace and consistent .And motivated us to do our sort analysis. 
 | 24/07/2024 | IOC Gauravdeep Singh | The introduction started with the resource persons life story which was very wonderful and inspiring and also motivated to do those things at which we are good rather than running behind the crowd he also introduce us to the students working in IOC team and it also motivated as to take initiatives to bring smile on other faces.|
+| 25/07/2024 | Dr. Kanwalpreet kaur Bhatt | The day was very special the resource topic introduced by maam was How with a small step of meditation we can cure the scariest diseases. she also gave us the practical  experience of how to do the meditation lock our feets and hand to gain the causmic energy by showing us the video and we ourselves also did it for 15 minutes and felt very relaxed. 
 | Date | Activity | Description |
 | 12/07/2024 | Universal human value 1| Introduction to Value Education The purpose of education is to facilitate the development of clarity on the aspiration and adequate competence to actualize it.For this, it is essential to understand what a happy, fulfilling and successful life is what is really valuable for human being; what is our purpose as a human being? Understanding human aspiration, or what is really valuable for human being, is the value domain. The subject which enables us to understand this domain is called ‘Value Education’  |
 | 16/07/2024 | Information Department tour | The visit started with an introduction containing questions like name, City short term goals ,long term goals and difference between CSE and It and the last question was how we get to know about gndce and then we visited different labs and also the training and placement cell.|
